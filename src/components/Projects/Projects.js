@@ -3,8 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import texttools from "../../Assets/Projects/textutils.jpeg";
-import hf from "../../Assets/Projects/cinematic.jpeg";
-import bc from "../../Assets/Projects/bc.png";
+import hf from "../../Assets/Projects_pictures/cinematic.jpeg";
+import bc from "../../Assets/Projects_pictures/bc.png";
 
 function Projects() {
   return (
