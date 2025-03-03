@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import texttools from "../../Assets/Projects/textutils.jpeg";
+import texttools from "../../Assets/Projects_pictures/textutils.jpeg";
 import hf from "../../Assets/Projects_pictures/cinematic.jpeg";
 import bc from "../../Assets/Projects_pictures/bc.png";
 
@@ -42,9 +42,7 @@ function Projects() {
               demoLink="https://text-utils-seven-pied.vercel.app/"
             />
           </Col>
-
         </Row >
-
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <strong className="project-heading">
