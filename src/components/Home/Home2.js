@@ -18,27 +18,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I ❤️ programming! Just started my journey with React.js ⚛️ and I'm loving every bit of it 🚀
               <br />
-              <br />I am good in classics like
+              <br />I have a solid foundation in classic programming languages Such as 
               <i>
-                <b className="purple"> Java, Javascript, python(basics) </b>
+                <b className="purple"> Java ☕, JavaScript 📜, and basic Python 🐍 </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I'm passionate about building innovative things by using &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  App Development.
-                </b>
+                <b className="purple">Web technologies 🌐 </b> And <b className="purple">App Technologies 💡</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I love to bring my ideas to life using
+              with <b className="purple">Node.js🟩</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -47,7 +42,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Node.js</b>
+                <b className="purple"> React.js ⚛️ and Node.js  🚀</b>
               </i>
             </p>
           </Col>
@@ -59,7 +54,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>Let's Connect ON</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
